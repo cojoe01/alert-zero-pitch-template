@@ -1,7 +1,7 @@
 module.exports = {
-  name: 'alert-zero-pitch',
+  name: 'alert-zero-pitch-template',
   title: 'Elastic Security',
-  repo: '0trustissues/alert-zero-pitch',   // powers slide comments (GitHub issues)
+  repo: 'cojoe01/alert-zero-pitch-template',   // powers slide comments (GitHub issues)
   gateway: 'https://api.fslides.dev',    // sign-in broker for commenting on the published deck
   slidesDir: 'slides',
   style: 'elastic-web',
