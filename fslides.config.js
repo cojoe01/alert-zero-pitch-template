@@ -9,17 +9,12 @@ module.exports = {
   // Slide filenames in order, relative to the slides/ directory
   slides: [
     'cover.html',
-    'team.html',
     'attacker-side.html',
     'analysts-day.html',
-    'one-platform.html',
     'in-numbers.html',
     'siem-matters.html',
     'never-waited.html',
-    'block-hunt.html',
-    'introducing-alertzero.html',
-    'alertzero-architecture.html',
-    'what-is-a-watch.html',
+    'what-is-a-watch-platform.html',
     'watch-flow.html',
     'three-levels.html',
     'demo-running.html',
@@ -29,16 +24,11 @@ module.exports = {
   // Human-readable labels for the overview panel (must match slides array length)
   labels: [
     'Cover',
-    'Team',
     'The attacker side',
     'The analyst\'s day',
-    'One platform',
     'In numbers',
     'The SIEM matters',
     'It never waited',
-    'Block and hunt',
-    'Introducing AlertZero',
-    'AlertZero architecture',
     'What is a Watch',
     'Watches working together',
     'Three levels',
@@ -54,7 +44,6 @@ module.exports = {
   //   }
   // },
   disabled: [
-    'block-hunt.html',
     'key-takeaways.html',
   ],
 };
